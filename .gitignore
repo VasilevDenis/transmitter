@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycashe__/
+log.json
+temp.json
+temp.jpg
+test.py
